@@ -1,0 +1,73 @@
+package aplicacao;
+
+import java.util.Scanner;
+
+public class UtilizandoFuncoesMain {
+	char resp;
+	static Scanner sc1 = new Scanner(System.in);
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);//instanciando o objeto de entrada de dados - Scanner
+		
+		System.out.print("Informe o 1º valor: ");
+		double num1 = sc.nextDouble();
+		System.out.print("Informe o 2º valor: ");
+		double num2 = sc.nextDouble();
+		
+		System.out.print("Informe a operação: ");
+		char operacao = sc.next().charAt(0);
+
+		switch (operacao) {
+		case '*':
+			System.out.println(funcMultiplica(num1, num2));
+			break;
+		case '/':
+			System.out.println(funcDivide(num1, num2));
+			break;
+		case '+':
+			System.out.println(funcSoma(num1, num2));
+			break;
+		case '-':
+			System.out.println(funcSubtrai(num1, num2));
+			break;
+		default:
+			System.out.println("Operacao inválida");
+		}
+		sc.close();
+	}
+	//uso de funções no MAIN
+	public static double funcSoma(double a, double b) {
+		return a + b;
+	}
+	
+	public static double funcDivide(double a, double b) {
+		return a / b;
+	}
+	
+	public static double funcMultiplica(double a, double b) {
+		return a * b;
+	}
+	
+	public static double funcSubtrai(double a, double b) {
+		
+		if(a > b) {
+			return a - b;
+		}
+		else { 
+			System.out.println("Deseja informar o resultado negativo? (S/N)");
+			//char resp = sc1.next().charAt(0);
+			System.out.print(">>: ");
+			char resp = Character.toUpperCase(sc1.next().charAt(0));
+			
+			if(resp == 'S') {
+				return a - b;
+			}else {
+				return b - a;
+			}
+				
+		}
+		
+	}
+	
+	
+}

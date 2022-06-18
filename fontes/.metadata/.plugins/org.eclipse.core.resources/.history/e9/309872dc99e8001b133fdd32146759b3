@@ -1,0 +1,19 @@
+package aplicacao;
+
+import java.util.Scanner;
+
+public class ExercicioFor {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		int n = sc.nextInt();
+		int soma = 0;
+		
+		for (int i = n; i < n; i--){
+			soma += i;
+		}
+		System.out.println(soma);
+	}
+
+}

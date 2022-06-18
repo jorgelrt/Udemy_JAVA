@@ -1,0 +1,41 @@
+Plataforma AMD
+
+  * placa mae ASUS Prime A320M-K - BOX 
+	----------> R$ 473,90 (Info Gold - (21)3559-1566 / 96866-9036 / 97044-3119 / 96866-9036
+                    Av. Rio Branco, 156 loja 213 Stand A
+
+	Placa mãe Socket AM4, Suporta processadores AMD Ryzen/7th Generation A-series/Athlon Processors, 
+	Suporta CPU de até 8 Nucleos; Chipset: AMD A320; 
+	Memoria: (Para processadores Ryzen) 2x DDR4 3200(O.C.)/2933(O.C.)/2666/2400/2133 MHz DIMM Slots, ECC/Non-ECC, 
+	Un-buffered, Capacidade Maxima de 32 GB; 
+	(Para processadores A-series/Athlon de 7ª geração) 2x DDR4 2400/2133 MHz DIMM Slots, Dual Channel, Non-ECC, 
+	Un-buffered, Capacidade Maxima de 32 GB; 
+	Slots: Processadores AMD Ryzen: 1x PCIe 3.0/2.0 x16 (x16 mode), 
+	Processadores AMD A-series/Athlon de 7ª geração: 1x PCIe 3.0/2.0 x16 (x8 mode), 
+	AMD A320 chipset: 2x PCIe 2.0 x1; 
+	Armazenamento: AMD A320 chipset: 4 x SATA 6Gb/s port(s), cinza, suporta Raid 0, 1, 10, 
+	Processadores AMD Ryzen: 1x M.2 Socket 3, with M key, type 2242/2260/2280 storage devices support (SATA & PCIE 3.0 x 4 mode), 
+	Processadores AMD A-series/Athlon de 7ª geração: 1x M.2 Socket 3, with M key, type 2242/2260/2280 storage devices support (SATA mode);
+	Audio: Realtek ALC 887 8-Channel Audio CODEC de alta definição; 
+	LAN: Realtek RTL8111H Gigabit Ethernet Controller; 
+	Painel traseiro: 1x PS/2 keyboard (purple), 1x PS/2 mouse (green), 1x D-Sub, 1x HDMI, 1x LAN (RJ45) port(s), 4x USB 3.1 Gen 1 (blue), 
+	2x USB 2.0, 3x Audio jack(s).
+
+	https://www.asus.com/us/Motherboards/PRIME-A320M-K/specifications/
+
+  * processador AMD / A6-9500
+        ----------> R$ 349,00 (Av. Dom Helder Câmara 5027 sobreloja 3A - Cachambi - Shopping PromoInfo 2 andar Estacionamento
+                    (21) 3298-0156 / 96487-4803 / 96410-5158 / 96487-4803
+
+	Processador AMD A6-9500 3.5GHz (3.8GHz Turbo) Socket AM4, 45/65W, 28nm, Total de Cache L2: 1024KB, 
+	núcleos de computação: 8 (2 CPU + 6 GPU), Default TDP/ TDP: 65W, 
+	GPU Integrada: Radeon R5, Graphics Frequency: 1029 MHz.
+
+  * memória Kingstom KVR26N19S8/8GB DDR4-2666 CL19 SDRAM
+	----------> R$ 229,95 (Av. Rio Branco 156 loja309 a 311 st 12
+		    (21) 2029-2730 / 96538-1225 / 96538-1225
+
+	Memória Kingston ValueRAM de 8GB (1x 8GB) DDR4-2666 CL19 SDRAM.
+
+  * 
+	            

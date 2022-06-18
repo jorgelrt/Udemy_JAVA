@@ -1,0 +1,35 @@
+package aplicacao;
+
+import java.util.Locale;
+import java.util.Scanner;
+
+public class ProgramaFuncoesMain2 {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		Locale.setDefault(Locale.US);
+		
+		System.out.println("Informe 3 números separados por espaço");
+		System.out.print(">>: ");
+		String numeros = sc.nextLine();
+		String[] arrNum = numeros.split(" ")  ; //somente exercitando uso do split
+		
+		double resultado = MaiorNumero(Double.parseDouble(arrNum[0]), Double.parseDouble(arrNum[1]), Double.parseDouble(arrNum[2]));
+		
+		System.out.printf("O maior número informado foi: %.2f",resultado);
+		
+		sc.close();
+
+	}
+	//função personalizada
+	public static double MaiorNumero(double A, double B, double C) {
+		if((A > B) && (A> C)){
+			return A ;
+		}else if ((B>A) && (B>C)){
+			return B;
+		}else {
+			return C;
+		}
+	}
+
+}

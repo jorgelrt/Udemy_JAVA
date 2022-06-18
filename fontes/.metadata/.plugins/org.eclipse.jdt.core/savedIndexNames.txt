@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\jorge\OneDrive\Documentos\CURSO JAVA UDEMY\fontes\.metadata\.plugins\org.eclipse.jdt.core
+2326094736.index
+3543422066.index
+2525604767.index
+1717367218.index

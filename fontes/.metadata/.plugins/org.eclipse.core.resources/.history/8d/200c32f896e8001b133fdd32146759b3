@@ -1,0 +1,25 @@
+package aplicacao;
+
+import java.util.Scanner;
+
+public class ExercicioWhile {
+
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+		
+		int x ;
+		//double soma;
+		
+		x = sc.nextInt();
+		//soma = x;
+		
+		while(x != 0) {
+			x = sc.nextInt();
+		}
+		
+		sc.close();
+
+	}
+
+}
